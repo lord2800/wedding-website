@@ -1,0 +1,80 @@
+body {
+	background-color: #121E38;
+	font-family: 'Open Sans', Arial;
+	position: relative;
+}
+#main-area {
+	height: 100%;
+	width: 65%;
+	margin: 0 auto;
+}
+header {
+	height: 400px;
+	max-height: 400px;
+	background: url(bg.jpg) center/120% no-repeat;
+	margin-top: -27px;
+	display: block;
+}
+header > h1, header > span {
+	font-family: 'Berkshire Swash';
+	color: #663D77;
+}
+header > h1 {
+	position: relative;
+	top: 87px;
+	left: 44px;
+	font-size: 2.6em;
+}
+header > span {
+	position: relative;
+	top: 55px;
+	left: 85px;
+}
+#menu a, #menu a:active, #menu a:hover, #menu a:link {
+	text-decoration: none;
+}
+#menu {
+	text-align: center;
+}
+#menu ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#menu li {
+	display: inline-block;
+	padding: 10px 25px;
+}
+#menu li:hover {
+	background-color: #374291;
+}
+#menu li a, #menu li a:link, #menu li a:hover, #menu li a:active {
+	color: #fff;
+}
+.content {
+	font-size: 13px;
+	line-height: 1.3em;
+	text-align: center;
+	color: #303030;
+	background-color: #fff;
+	padding: 10px;
+}
+#rsvp-form {
+	width: 50%;
+	margin: 0 auto;
+	text-align: left;
+}
+#choices div {
+	width: 50%;
+}
+#choices div:first-child {
+	float: left;
+}
+#choices div:last-child {
+	float: right;
+}
+.group:after {
+	content: "";
+	display: table;
+	clear: both;
+}

@@ -61,6 +61,9 @@ header > span {
 	background-color: #fff;
 	padding: 30px 20px;
 }
+.content h1 {
+    font-family: 'Berkshire Swash';
+}
 .content p {
 	margin: 10px 0;
 }

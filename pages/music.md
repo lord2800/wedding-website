@@ -1,3 +1,5 @@
+# Music
+
 We plan to have a live band playing! Dancing not required ;)
 
 The band we have chosen is a lovely group based out of San Francisco. They are a 3 piece band that are going to be playing in the style of french gypsy jazz. 

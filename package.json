@@ -4,7 +4,6 @@
   "description": "A wedding site for Nicole and I",
   "main": "index.js",
   "scripts": {
-    "post-deploy" : "npm install && pm2 startOrRestart ecosystem.json --env production"
   },
   "author": "Jeff Hubbard <lord2800@gmail.com> (https://github.com/lord2800)",
   "license": "ISC",

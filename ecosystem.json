@@ -17,7 +17,8 @@
 			"host": "45.55.6.118",
 			"ref": "origin/master",
 			"repo": "git@github.com:lord2800/wedding-website.git",
-			"path": "/home/wedding"
+			"path": "/home/wedding",
+			"post-deploy" : "npm prune && npm install && pm2 startOrRestart ecosystem.json --env production"
 		}
 	}
 }

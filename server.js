@@ -9,7 +9,7 @@ var express = require('express'),
 	firebase = require('firebase')
 ;
 
-var db = new firebase('https://jeff-nicole-rsvp.firebaseio.com/rsvps/');
+var db = new firebase(process.env.FIREBASE_URL);
 var app = module.exports = express();
 
 app.use(morgan('dev'));

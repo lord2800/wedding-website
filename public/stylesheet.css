@@ -43,6 +43,9 @@ header > span {
 }
 #menu li {
 	display: inline-block;
+}
+#menu li a {
+	display: inline-block;
 	padding: 10px 25px;
 }
 #menu li:hover {
@@ -52,12 +55,14 @@ header > span {
 	color: #fff;
 }
 .content {
-	font-size: 13px;
-	line-height: 1.3em;
-	text-align: center;
+	font-size: 15px;
+	line-height: 1.5em;
 	color: #303030;
 	background-color: #fff;
-	padding: 10px;
+	padding: 30px 20px;
+}
+.content p {
+	margin: 10px 0;
 }
 #rsvp-form {
 	width: 50%;

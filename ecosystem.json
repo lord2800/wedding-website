@@ -1,0 +1,23 @@
+{
+	"apps": [
+		{
+			"name": "Wedding Website",
+			"script": "server.js",
+			"env": {
+				"FIREBASE_URL": "https://jeff-nicole-rsvp.firebaseio.com/rsvps/"
+			},
+			"env_production" : {
+				"NODE_ENV": "production"
+			}
+		}
+	],
+	"deploy" : {
+		"production" : {
+			"user": "wedding",
+			"host": "45.55.6.118",
+			"ref": "origin/master",
+			"repo": "git@github.com:lord2800/wedding-website.git",
+			"path": "/home/wedding"
+		}
+	}
+}

@@ -16,10 +16,13 @@ app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
-var template = fs.readFileSync(path.join(__dirname, 'pages', 'template.html'));
+var template = fs.readFileSync(path.join(__dirname, 'pages', 'template.html')).toString();
 
 function content(str) {
-	return fs.readFileSync(path.join(__dirname, 'pages', 'template.html')).toString().replace('{{content}}', str.toString());
+	if(process.env.NODE_ENV !== 'production') {
+		template = fs.readFileSync(path.join(__dirname, 'pages', 'template.html')).toString();
+	}
+	return template.replace('{{content}}', str.toString());
 }
 
 function sendPage(page, res) {

@@ -132,6 +132,12 @@ textarea {
 
 }
 
+@media (max-width:1025px) and (min-width:767px) {
+	header > h1 {
+		left: 23px;
+	}
+}
+
 @media screen and (max-width: 500px) {
 
 	header {

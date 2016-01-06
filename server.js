@@ -55,7 +55,7 @@ app.post('/rsvp', function (req, res) {
 		if (err) {
 			return res.status(500).send(sendPage('rsvp-failed', res));
 		}
-		res.status(200).send(sendPage('rsvp-success', res));
+		sendPage('rsvp-success', res);
 	});
 });
 

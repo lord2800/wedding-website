@@ -86,3 +86,76 @@ header > span {
 	display: table;
 	clear: both;
 }
+
+input, textarea {
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+textarea {
+	border: 1px solid #CCCCCC;
+	resize: none;
+	width: 100%;
+}
+
+#rsvp-form button {
+    background: none repeat scroll 0 0 #ECECEC;
+    border: medium none;
+    cursor: pointer;
+    display: inline-block;
+    padding: 7px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 1025px) {
+
+	header {
+		background: transparent url("bg.jpg") no-repeat scroll center center / 240% auto;
+	}
+
+	#menu {
+		text-align: left;
+	}
+
+	#menu li a {
+		padding: 10px 16px;
+	}
+
+	#rsvp-form {
+		width: 85%;
+	}
+
+	#choices label {
+		margin: 6px 0;
+		display: inline-block;
+	}
+
+}
+
+@media screen and (max-width: 500px) {
+
+	header {
+		background: transparent url("bg.jpg") no-repeat scroll center center / 500% auto;
+	}
+
+	#choices div {
+		width: 100%;
+	}
+	#choices div:first-child {
+		float: inherit;
+	}
+	#choices div:last-child {
+		float: inherit;
+	}
+
+	#rsvp-form input {
+		width: 100%;
+	}
+
+	#choices label {
+		margin: 6px 0;
+		display: inline-block;
+		width: 100%;
+	}
+
+}

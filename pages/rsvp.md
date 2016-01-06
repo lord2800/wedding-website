@@ -4,7 +4,7 @@
 		<div>
 			<label><input type="radio" value="glad" name="status">&nbsp;Gladly Attend</label><br />
 			<label><input type="radio" value="resent" name="status">&nbsp;Resentfully Attend</label><br />
-			<label><input type="radio" value="nobutyes" name="status">&nbsp;Will Decline to Respond but Ultimately Attend Anyway</label><br />
+			<label><input type="radio" value="nobutyes" name="status">&nbsp;Will Decline to Respond but Ultimately Attend</label><br />
 		</div>
 		<div>
 			<label><input type="radio" value="regret" name="status">&nbsp;Regretfully Decline</label><br />
@@ -12,8 +12,12 @@
 			<label><input type="radio" value="who" name="status">&nbsp;Wait, who are you again?</label><br />
 		</div>
 	</div>
-	<p>What's your name?</p>
-	<p><input type="text" name="name"></p>
+	<p>
+		<label>
+			What's your name?<br />
+			<input type="text" name="name">
+		</label>
+	</p>
 	<p>
 		<label>
 			Any songs you would like to hear? (No promises, and <a href="https://www.youtube.com/watch?v=RD1KqbDdmuE">no Stairway to Heaven</a>.)<br />

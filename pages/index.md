@@ -4,7 +4,7 @@ Welcome to our wedding website! We are so excited to share our special day with 
 
 We've put together this website to share accomodation ideas, day of information, registry details, contact information and a few of our engagement pictures and personal stories. This is still a work in progress so please check back frequently.
 
-We are so honored to have all of you in our lives, your support and love means the world to us and we look forward to celebrating our wedding with you!
+We are so honored to have all of you in our lives, your support and love means the world to us and we look forward to celebrating our little wedding with you!
 
 Love,
 

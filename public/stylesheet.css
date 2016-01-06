@@ -107,6 +107,11 @@ textarea {
     text-transform: uppercase;
 }
 
+.aligned span:first-child {
+	display: inline-block;
+	min-width: 150px;
+}
+
 @media screen and (max-width: 1025px) {
 
 	header {

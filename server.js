@@ -53,9 +53,10 @@ app.post('/rsvp', function (req, res) {
 	var rsvp = db.push();
 	rsvp.set(req.body, function (err) {
 		if (err) {
-			return res.status(500).send(sendPage('rsvp-failed', res));
+			sendPage('rsvp-failed', res);
+		} else {
+			sendPage('rsvp-success', res);
 		}
-		sendPage('rsvp-success', res);
 	});
 });
 

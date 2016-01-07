@@ -163,6 +163,11 @@ img.left {
 		min-width: 33%;
 	}
 
+	img.left {
+		position: relative;
+		top: 37px;
+	}
+
 }
 
 @media (max-width:1025px) and (min-width:767px) {

@@ -142,10 +142,6 @@ img.left {
 		background: transparent url("bg.jpg") no-repeat scroll center center / 180% auto;
 	}
 
-	#menu {
-		text-align: left;
-	}
-
 	#menu li a {
 		padding: 10px 16px;
 	}

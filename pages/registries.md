@@ -19,7 +19,7 @@ Gil, Munny, Credits, or Rupees are also acceptable. :p
 
 Alternatively, you can donate to our honeymoon fund:
 
-(We're thinking Hawaii possibly as neither of us have ever been there!)
+(If we are able to, we're thinking Hawaii as neither of us have ever been there!)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

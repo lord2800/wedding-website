@@ -21,6 +21,4 @@ Thanks to the generosity of my aunt and uncle our ceremony and reception will be
 
 # Accomodations
 
-Coming Soon!
-
-[Hipmunk](https://www.hipmunk.com/hotels#w=Calistoga,+CA;i=2016-05-27;o=2016-05-29)
+We're currently attempting to find nearby hotels we can make arrangements with, but in the meantime you can [search for hotels](https://www.hipmunk.com/hotels#w=Calistoga,+CA;i=2016-05-27;o=2016-05-29) around the area. We also suggest [Airbnb](https://www.airbnb.com/s/Calistoga--CA).

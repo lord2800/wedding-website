@@ -21,4 +21,29 @@ Thanks to the generosity of my aunt and uncle our ceremony and reception will be
 
 # Accomodations
 
-We're currently attempting to find nearby hotels we can make arrangements with, but in the meantime you can [search for hotels](https://www.hipmunk.com/hotels#w=Calistoga,+CA;i=2016-05-27;o=2016-05-29) around the area. We also suggest [Airbnb](https://www.airbnb.com/s/Calistoga--CA).
+We're currently attempting to find nearby hotels we can make arrangements with, but in the meantime you can [search for hotels](https://www.hipmunk.com/hotels#w=Calistoga,+CA;i=2016-05-27;o=2016-05-29) around the area. We also suggest looking at [Airbnb](https://www.airbnb.com/s/Calistoga--CA) listings.
+
+Suggestions
+
+**Larkmead Inn** - 707-942-5360
+
+* All 4 rooms available (as of Jan. 10)
+
+* $165 per night - 2 night minimum
+
+*breakfast included
+
+**Calistoga Inn** (Restaurant & Brewery)- 
+
+* 17 room inn (2nd floor)
+
+* $149-$169 per night (one night stays available!)
+
+* all rooms have queen bed, personal sink, ceiling fan (no phones or tvs)
+
+* all rooms share common restroom and shower facilities. 
+
+* continental breakfast included
+
+
+

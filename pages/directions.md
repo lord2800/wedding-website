@@ -25,7 +25,7 @@ We're currently attempting to find nearby hotels we can make arrangements with, 
 
 Budget Suggestions
 
-**Larkmead Inn** - 707-942-5360
+**[Larkmead Inn](http://larkmeadinn.com/)** - 707-942-5360
 
 * All 4 rooms available (as of Jan. 10)
 
@@ -33,7 +33,7 @@ Budget Suggestions
 
 * breakfast included
 
-**Calistoga Inn** (Restaurant & Brewery)- 
+**[Calistoga Inn](http://calistogainn.com/)** (Restaurant & Brewery) - (707) 942-4101
 
 * 17 room inn (2nd floor)
 

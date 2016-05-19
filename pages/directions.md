@@ -9,9 +9,18 @@ Thanks to the generosity of my aunt and uncle our ceremony and reception will be
 
 <p class="aligned"><span>**LOCATION:**</span><span>6950 Sharp Road, Calistoga, CA 94515</span></p>
 
-&#42; We recommend wearing comfortable shoes and avoiding high heels
+&#42; Reception to follow with live music, light appetizers & dessert
 
+---
 
+# Formal wear? Inconceivable!
+
+Seriously, we're geeks, people. Okay… so for our wedding we might look a bit more spiffy than usual, but we encourage all our guests to dress in whatever they feel is comfortable.
+We're not responsible for what happens if you decide to wear a red shirt though. ;)
+
+(Please do keep in mind though, that we are planning an outdoor, evening ceremony. High heels and uncomfortable formal wear are not recommended.)
+
+---
 
 # Directions
 
@@ -23,29 +32,7 @@ Thanks to the generosity of my aunt and uncle our ceremony and reception will be
 
 # Accomodations
 
-We're currently attempting to find nearby hotels we can make arrangements with, but in the meantime you can [search for hotels](https://www.hipmunk.com/hotels#w=Calistoga,+CA;i=2016-05-27;o=2016-05-29) around the area. We also suggest looking at [Airbnb](https://www.airbnb.com/s/Calistoga--CA) listings.
-
-Budget Suggestions
-
-**[Larkmead Inn](http://larkmeadinn.com/)** - 707-942-5360
-
-* All 4 rooms available (as of Jan. 10)
-
-* $165 per night - 2 night minimum
-
-* breakfast included
-
-**[Calistoga Inn](http://calistogainn.com/)** (Restaurant & Brewery) - (707) 942-4101
-
-* 17 room inn (2nd floor)
-
-* $149-$169 per night (one night stays available!)
-
-* all rooms have queen bed, personal sink, ceiling fan (no phones or tvs)
-
-* all rooms share common restroom and shower facilities. 
-
-* continental breakfast included
+Unfortunately, all previously suggested accomodations are booked but you can [search for hotels](https://www.hipmunk.com/hotels#w=Calistoga,+CA;i=2016-05-27;o=2016-05-29) around the area. We also suggest looking at [Airbnb](https://www.airbnb.com/s/Calistoga--CA) listings. Please contact us if you need some last minute help finding a place to stay.
 
 
 

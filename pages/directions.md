@@ -9,7 +9,7 @@ Thanks to the generosity of my aunt and uncle our ceremony and reception will be
 
 <p class="aligned"><span>**LOCATION:**</span><span>6950 Sharp Road, Calistoga, CA 94515</span></p>
 
-&#42; Reception to follow with live music, light appetizers & dessert
+&#42; Reception to follow with live music, light appetizers & dessert. Stay for games & a bonfire!
 
 ---
 
@@ -18,7 +18,7 @@ Thanks to the generosity of my aunt and uncle our ceremony and reception will be
 Seriously, we're geeks, people. Okay… so for our wedding we might look a bit more spiffy than usual, but we encourage all our guests to dress in whatever they feel is comfortable.
 We're not responsible for what happens if you decide to wear a red shirt though. ;)
 
-(Please do keep in mind though, that we are planning an outdoor, evening ceremony. High heels and uncomfortable formal wear are not recommended.)
+(Please do keep in mind though, that we are planning an outdoor, evening ceremony. Consider bringing a warm layer for the evening! High heels and uncomfortable formal wear are not recommended.)
 
 ---
 
